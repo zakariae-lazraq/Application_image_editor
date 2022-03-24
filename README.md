@@ -1,1 +1,3 @@
-# Application_image_editor
+# simpleImageEditor
+
+This repo has only the source code. Don't forget to add libraries.
